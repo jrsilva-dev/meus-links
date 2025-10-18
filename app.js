@@ -1,4 +1,5 @@
- // Altere os links aqui:
+console.log('app.js carregado');
+
   const links = {
     github: 'https://github.com/jrsilva-dev',
     linkedin: 'https://www.linkedin.com/in/jr-silva-014701296/',
