@@ -29,8 +29,8 @@
   <h2>Como Usar</h2>
     <ol>
         <li><strong>Clone ou baixe o repositório</strong>:
-            <pre><code>git clone https://github.com/seu-usuario/nome-do-repo.git
-cd nome-do-repo</code></pre>
+            <pre><code>git clone https://github.com/jrsilva-dev/meus-links.git
+cd meus-links</code></pre>
         </li>
         <li><strong>Abra o arquivo HTML</strong>:
             <ul>
@@ -68,7 +68,7 @@ cd nome-do-repo</code></pre>
 
   <h2>Contato</h2>
     <ul>
-        <li>Autor: Jr. Silva Dev</li>
+        <li>Autor: Jr. Silva</li>
         <li>GitHub: <a href="https://github.com/jrsilva-dev">jrsilva-dev</a></li>
         <li>LinkedIn: <a href="https://www.linkedin.com/in/jr-silva-014701296/">Jr. Silva</a></li>
         <li>WhatsApp: <a href="https://wa.me/5584999339597?text=Ol%C3%A1!%20Encontrei%20seu%20link%20no%20Instagram%20e%20gostaria%20de%20conversar.">Clique aqui</a></li>
