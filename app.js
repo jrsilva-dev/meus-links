@@ -3,6 +3,7 @@ console.log('app.js carregado');
   const links = {
     github: 'https://github.com/jrsilva-dev',
     linkedin: 'https://www.linkedin.com/in/jr-silva-014701296/',
+    instagram: 'https://www.instagram.com/jrsilva.dev/',
     whatsapp: `https://wa.me/5584999339597?text=${encodeURIComponent("Olá! Encontrei seu link no Instagram e gostaria de conversar.")}`,
     portfolio: 'https://jrsilva-dev.github.io/jrsilva.dev-portifolio/'
     };
@@ -13,6 +14,10 @@ console.log('app.js carregado');
 
   document.getElementById('btnLinkedin').addEventListener('click', () => {
     window.open(links.linkedin, '_blank');
+  });
+
+  document.getElementById('btnInstagram').addEventListener('click', () => {
+    window.open(links.instagram, '_blank');
   });
 
   document.getElementById('btnWhatsapp').addEventListener('click', () => {
