@@ -4,7 +4,7 @@ console.log('app.js carregado');
     github: 'https://github.com/jrsilva-dev',
     linkedin: 'https://www.linkedin.com/in/jr-silva-014701296/',
     instagram: 'https://www.instagram.com/jrsilva.dev/',
-    whatsapp: `https://wa.me/5584999339597?text=${encodeURIComponent("Olá! Encontrei seu link no Instagram e gostaria de conversar.")}`,
+    whatsapp: `https://wa.me/5584999339597`,
     portfolio: 'https://jrsilva-dev.github.io/jrsilva.dev-portifolio/'
     };
 
