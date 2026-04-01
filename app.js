@@ -5,7 +5,7 @@ console.log('app.js carregado');
     linkedin: 'https://www.linkedin.com/in/jr-silva-014701296/',
     instagram: 'https://www.instagram.com/jrsilva.dev/',
     whatsapp: `https://wa.me/5584999339597`,
-    portfolio: 'https://jrsilva-dev.github.io/jrsilva.dev-portifolio/'
+    portfolio: 'https://jrsilvadev-portfolio.vercel.app/'
     };
 
   document.getElementById('btnGithub').addEventListener('click', () => {
